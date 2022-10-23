@@ -1,0 +1,139 @@
+#title
+{
+    background-color: #790252;
+    padding: 1% 5%;
+    font-family: "Montserrat";
+    color:white;
+}
+
+.navbar-brand
+{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+/**************************************** caresol section ************************************************/
+#caresol
+{
+    text-align: center;
+    color:white;
+    background-color: #790252;
+    padding:15% 5%;
+    font-family: "Montserrat";
+}
+
+
+h3
+{
+    font-family: cursive;
+    font-weight: 500;
+   
+}
+
+h1
+{
+    padding-top: 10%;
+    font-weight: 900;
+    padding-bottom: 5%;
+}
+
+.img1
+{
+    width:50%;
+    margin:auto auto;
+    border-radius: 100%;
+}
+
+
+.row
+{
+    padding-left: 5%;
+    padding-right:5%;
+   
+}
+
+.left-button
+{
+    padding-right:12%;
+}
+
+.right-button
+{
+    padding-left: 12%;
+}
+
+/********************************************** work********************************************************** */
+#Work
+{
+    padding: 10% 5%;
+    text-align: center;
+}
+
+.row
+{
+    padding-bottom: 5%;
+}
+
+.yoyo
+{
+    padding-bottom: 5%;
+}
+
+
+/* *********************************************footer**************************************************** */
+#footer
+{
+    background-color: #790252;
+    padding:5% 15%;
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Montserrat";
+    
+}
+a{
+    padding-left: 5%;
+}
+
+.btn
+{
+    text-align: center;
+}
+.fot
+{
+    font-size: 1rem;
+    padding-top: 2%;
+    color: white;
+    padding-left: 5%;
+}
+
+.fa-brands
+{
+    color:white;
+    padding-left: 2%;
+}
+
+.fa-solid
+{
+    color:rgb(242, 242, 242);
+}
+.fa-youtube:hover
+{
+    color:red;
+}
+
+.fa-linkedin:hover
+{
+    color:blue;
+}
+
+.fa-mailbox:hover
+{
+    color:green;
+}
+
+.fa-solid:hover
+{
+    color:black;
+}
+
+
